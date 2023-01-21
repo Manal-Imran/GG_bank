@@ -15,7 +15,7 @@ languages that I used For this website are:
 |JavaScript|
 
 ## Website Link
-https://muhammadasimzaheer.000webhostapp.com/
+https://manalimran.000webhostapp.com/
 ## 🛠 Skills
 React, Javascript, HTML, CSS and Python.
 
